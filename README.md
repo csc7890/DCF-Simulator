@@ -1,4 +1,4 @@
-# DCF-Simulatior
+# DCF-Simulator
 IEEE 802.11 DCF Simulator
 
 작성자 : 최승찬(Choi Seung Chan : csc7890@naver.com)
